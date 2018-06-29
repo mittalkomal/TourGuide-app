@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tour guide</string>
+    <string name="dine">dine_and_rest</string>
+    <string name="malls">malls</string>
+    <string name="sightseeing">sight_seeing</string>
+    <string name="historical">historical_places</string>
+    <string name="dine1">Dine And Enjoy\n  (Scroll left for further options)</string>
+    <string name="historical1">Historical places\n  (scroll right for further options)</string>
+    <string name="sight1">Sight Seeing\n  (scroll right for further option)  </string>
+    <string name="malls1">Malls\n  (scroll right for further options)</string>
+    <string name="dineName1">1.Saffron</string>
+    <string name="dineInfo1">6 Dakshin Marg, Chandigarh</string>
+    <string name="dineName2">2.Whistling Duck</string>
+    <string name="dineInfo2">SCO 10, Back Lane, Sector 26; Meal for two: Rs:3,500</string>
+    <string name="dineName3">3. Hops n Grains</string>
+    <string name="dineInfo3">SCO 358, Sector 9, Panchkula; Meal for two: Rs:3,000</string>
+    <string name="historicalName1">1.The Capitol</string>
+    <string name="historicalInfo1">Capitol Complex, Sector 1, Chandigarh, 160001, India</string>
+    <string name="historicalName2">2.Le Corbusier Center</string>
+    <string name="historicalInfo2">Old Architect Building, Madhya Marg, Sector 19B, Sector 19, Chandigarh, 160019</string>
+    <string name="historicalName3">3.Open Hand Monument</string>
+    <string name="historicalInfo3"> 31, Uttar Marg, 4A, Sector 4, Chandigarh, 160001</string>
+    <string name="mallsName1">1.DLF City Centre Mall</string>
+    <string name="mallsInfo1">Plot Number 22-23, IT Park, Phase - I, Manimajra, Kishangarh, Chandigarh, 161101</string>
+    <string name="mallsName2">2.Elante Mall</string>
+    <string name="mallsInfo2">Plot No. 177/178A, Purv Marg, Industrial Area Phase 1, MW Area, Chandigarh, 160002</string>
+    <string name="mallsName3">3.Tdi mall</string>
+    <string name="mallsInfo3"> TDI MALL, 17D, Sector 17, Chandigarh, 160017</string>
+    <string name="sightName1">1.RockGarden</string>
+    <string name="sightInfo1"> Sector 1, Chandigarh, 160017</string>
+    <string name="sightName2">2.RoseGarden</string>
+    <string name="sightInfo2"> 16B, Sector 16, Chandigarh, 160015</string>
+    <string name="sightName3">3.Sukhna</string>
+    <string name="sightInfo3"> Sector 1, Chandigarh, 160017</string>
+
+
+
+
+</resources>
